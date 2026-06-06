@@ -26,6 +26,7 @@
   - type: Tag
     tags:
     - BodyBag
+    - GraveBurial
   - type: Clickable
   - type: InteractionOutline
   - type: MovedByPressure

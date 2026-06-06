@@ -798,6 +798,11 @@
     node: cratecoffin
     containers:
     - entity_storage
+  # Sunrise-start
+  - type: Tag
+    tags:
+    - GraveBurial
+  # Sunrise-end
 
 - type: entity
   parent: CrateGeneric
@@ -850,6 +855,16 @@
   - type: ProRottingContainer
   - type: EntityStorage
     airtight: true
+    # Sunrise-start
+    maxSize: 3.0
+    whitelist:
+      tags:
+      - GraveBurial
+      - BodyBag
+      - CanPilot
+      - CanVim
+      - All
+    # Sunrise-end
     isCollidableWhenOpen: false
     closeSound:
       path: /Audio/Items/shovel_dig.ogg
