@@ -4,6 +4,7 @@ lobbyenabled = false
 # Dev map for faster loading & convenience
 map = "Dev"
 role_timers = false
+admin_job_tracking = true
 role_loadout_timers = false
 
 [events]
@@ -44,9 +45,6 @@ new_player_threshold = 120
 random_characters = true
 random_species_weights = ""
 ssd_sleep_time = 3600
-
-[transithub]
-arrivals_round_start_spawn = false
 
 # Sunrise-Edit
 [npc]

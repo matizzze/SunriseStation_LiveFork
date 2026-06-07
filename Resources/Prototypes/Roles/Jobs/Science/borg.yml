@@ -11,6 +11,9 @@
   #  role: JobBorg
   - !type:DepartmentTimeRequirement
     department: Silicon
+  # Sunrise-start
+  - !type:DepartmentTimeRequirement
+    department: Silicon
     time: 5h
   # SunriseEdit End
   weight: 10

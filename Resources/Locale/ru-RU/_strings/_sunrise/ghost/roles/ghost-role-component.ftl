@@ -6,7 +6,7 @@ ghost-role-information-syndicate-reaper-cyborg-name = Борг синдикат�
 ghost-role-information-syndicate-reaper-cyborg-description = Смерть NT.
 ghost-role-information-syndicate-heavy-cyborg-name = Тяжелый боевой борг синдиката
 ghost-role-information-syndicate-heavy-cyborg-description = Смерть NT.
-ghost-role-information-syndicate-spider-cyborg-name = Диверсионный борг синдиката
+ghost-role-information-syndicate-spider-cyborg-name = Диверсионный борг синдиката "Инфильтратор"
 ghost-role-information-syndicate-spider-cyborg-description = Смерть NT.
 ghost-role-information-syndicate-saboteur-cyborg-name = Диверсионный борг синдиката
 ghost-role-information-syndicate-saboteur-cyborg-description = Смерть NT.
@@ -47,3 +47,10 @@ job-rules-corporate-aligned = Вы на стороне {role-type-corporate-alig
 job-rules-tsf-aligned = Вы на стороне {role-type-tsf-aligned-name}.
                         Вы должны служить интересам Транс-Солнечной Федерации.
                         Помните: вы НЕ служите экипажу.
+ghost-role-information-sentient-carpholo-name = Разумный голокарп
+ghost-role-information-sentient-carprainbow-name = Разумный радужный карп
+ghost-role-information-sentient-carpshark-name = Разумная карпоакула
+ghost-role-information-one-star-unit-dungeon-name = Юнит «Одинокая звезда»
+ghost-role-information-guardian-unit-dungeon-name = Юнит-страж
+ghost-role-information-terminator-unit-dungeon-name = Юнит-экстерминатор
+ghost-role-information-one-star-unit-dungeon-description = [11201010111002] Работайте с другими автоматонами, защищайте комплекс и уничтожайте всех нарушителей. [1110220001010002220]

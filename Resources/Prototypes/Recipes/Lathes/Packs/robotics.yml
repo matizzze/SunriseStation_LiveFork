@@ -6,6 +6,7 @@
   - MMI
   # Sunrise-Remove
   #- PositronicBrain
+  - Boris # Sunrise-Add
   - SciFlash
   - CyborgEndoskeleton
 
@@ -41,7 +42,7 @@
   - BorgModuleAdvancedCleaning
   - BorgModuleAdvancedTool
   - BorgModuleAdvancedClowning
-  - BorgModuleAdvancedChemical
+  - BorgModuleAdvancedTopical
   - BorgModuleAdvancedMining
 
 - type: latheRecipePack
