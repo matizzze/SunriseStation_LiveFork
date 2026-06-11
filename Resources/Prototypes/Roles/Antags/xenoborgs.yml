@@ -10,6 +10,7 @@
     department: Silicon
     time: 18000  # 5 hrs
   guides: [ Xenoborgs ]
+  storytellerStress: 5.0 # Sunrise-Edit
 
 - type: antag
   id: Xenoborg
@@ -23,3 +24,4 @@
     department: Silicon
     time: 18000  # 5 hrs
   guides: [ Xenoborgs ]
+  storytellerStress: 0.5 # Sunrise-Edit
