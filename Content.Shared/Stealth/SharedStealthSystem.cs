@@ -4,6 +4,7 @@ using Content.Shared.Mobs.Systems;
 using Content.Shared.Stealth.Components;
 using Robust.Shared.GameStates;
 using Robust.Shared.Timing;
+using Content.Shared.NPC.Components;
 
 namespace Content.Shared.Stealth;
 
@@ -90,8 +91,11 @@ public abstract class SharedStealthSystem : EntitySystem
 
     protected virtual void OnInit(EntityUid uid, StealthComponent component, ComponentInit args)
     {
+
         if (component.LastUpdated != null || Paused(uid))
+        {
             return;
+        }
 
         component.LastUpdated = _timing.CurTime;
     }
