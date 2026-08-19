@@ -75,7 +75,6 @@
       types:
         Slash: 10
         Structural: 6
-  - type: ToolTileCompatible
   - type: Tool
     qualities:
     - Prying
