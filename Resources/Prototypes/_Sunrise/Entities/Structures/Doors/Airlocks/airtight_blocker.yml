@@ -2,9 +2,7 @@
   id: SunriseMultiTileAirtightBlocker
   name: airtight blocker
   categories: [ HideSpawnMenu ]
-  save: false
   components:
-  - type: SunriseMultiTileAirtightBlocker
   - type: Airtight
     airBlocked: false
     noAirWhenFullyAirBlocked: false
