@@ -4854,3 +4854,33 @@
     message: Исправлено выравнивание блока персонажей в панели взаимодействий
   id: 2028
   url: https://github.com/makura-games/sunrise-station/pull/4793
+- author: KaiserMaus
+  time: '2026-09-11T05:06:16.0000000+00:00'
+  changes:
+  - type: Tweak
+    message: Экспансивные патроны теперь наносят 10% урона ушибами и 10%  порезами и 80% урона уколами вместо 100%  уколы.
+  - type: Tweak
+    message: Респрайт С-40r.
+  id: 2029
+  url: https://github.com/makura-games/sunrise-station/pull/4803
+- author: kanopus7
+  time: '2026-09-12T20:57:09.0000000+00:00'
+  changes:
+  - type: Add
+    message: Апстрим от Wizden до 17 мая.
+  id: 2030
+  url: https://github.com/makura-games/sunrise-station/pull/4732
+- author: KaiserMaus
+  time: '2026-09-13T02:46:06.0000000+00:00'
+  changes:
+  - type: Fix
+    message: Исправлен выдача очков исследования если игрок перемещен в криохранилище
+  id: 2031
+  url: https://github.com/makura-games/sunrise-station/pull/4771
+- author: Nordstream17
+  time: '2026-09-15T02:11:11.0000000+00:00'
+  changes:
+  - type: Fix
+    message: Молот Синдиката опять можно брать в две руки
+  id: 2032
+  url: https://github.com/makura-games/sunrise-station/pull/4814

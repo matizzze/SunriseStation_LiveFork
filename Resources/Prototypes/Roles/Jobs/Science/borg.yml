@@ -17,7 +17,6 @@
     time: 5h
   # SunriseEdit End
   weight: 10
-  canBeAntag: false
   icon: JobIconStationAi
   overrideConsoleVisibility: false # Sunrise added
   supervisors: job-supervisors-rd
@@ -34,7 +33,6 @@
   requirements:
     - !type:OverallPlaytimeRequirement
       time: 10h
-  canBeAntag: false
   displayWeight: -10  # Sunrise
   icon: JobIconBorg
   overrideConsoleVisibility: false # Sunrise added
